@@ -1,4 +1,4 @@
-const API = "2791fd68e18e3ffd23e36d9f1f90c2a2";
+const API = "";
 
 function onGeoOk(position) {
   const wii = position.coords.latitude;
